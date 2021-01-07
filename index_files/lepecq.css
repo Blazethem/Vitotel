@@ -1,12 +1,12 @@
 /*
 site : www.lepecq.net
-date : 20 février 2005
+date : 20 fï¿½vrier 2005
 */
 
 body
 {
-background-color:#ffffcc;
-color:#ff7241;
+background-color:whitesmoke;
+color :#a52a2a
 text-align:center;
 font-family: Georgia, Futura, Verdana, Lucida, Helvetica, Arial, sans-serif;
 font-weight:normal;
@@ -15,8 +15,8 @@ font-size:1.1em;
 
 #corps
 {
-margin-left:10ex;
-margin-right:10ex;
+margin-left:19ex;
+margin-right:19ex;
 }
 
 h1
@@ -33,7 +33,7 @@ h3
 {
 font-size:1.3em;
 text-align:right;
-color:#6080ED;
+color:#8ef3fa;
 border-bottom:1px solid #6080ED;
 font-style:italic;
 }
@@ -79,7 +79,7 @@ text-indent:1.5em;
 font-style:italic;
 }
 
-blockquote span.italique
+blockquote span.bold
 {
 font-style:normal;
 }
